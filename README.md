@@ -8,8 +8,8 @@ The framework emphasizes **methodological rigor**: data validation, bias avoidan
 
 All research PDF available on 
 
-1. **Obsidian Financial Research** – [https://obsidianresearch.net/](https://obsidianresearch.net/)
-2. **Linkedin Post** - [https://www.linkedin.com/feed/update/urn:li:activity:7388529896861466624/](https://www.linkedin.com/feed/update/urn:li:activity:7388529896861466624/)
+1. **Obsidian Financial Research** – [Obsidian Financial Research](https://obsidianresearch.net/)
+2. **Linkedin Post** - [Professional Backtesting Framework](https://www.linkedin.com/feed/update/urn:li:activity:7388529896861466624/)
 
 ## Key Objectives
 

@@ -1,5 +1,7 @@
 # Professional Backtesting Framework for Quantitative Trading
 
+**Obsidian Financial Research** – [https://obsidianresearch.net/](https://obsidianresearch.net/)
+
 ## Overview
 
 This project explores how to design and implement a **professional backtesting framework** for quantitative trading using Python. The goal is not to present a profitable trading system, but to demonstrate how **theoretical concepts from quantitative finance and statistics can be translated into a systematic, testable, and unbiased trading model applied to real market data**.
@@ -49,3 +51,4 @@ This project is **for educational and research purposes only**. The implemented 
 
 **Mirko Piazzalunga**
 Obsidian Financial Research
+

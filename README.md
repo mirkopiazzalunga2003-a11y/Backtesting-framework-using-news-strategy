@@ -11,13 +11,13 @@ The framework emphasizes **methodological rigor**: data validation, bias avoidan
 ## Key Objectives
 
 * Build a **fully systematic trading model** with no discretionary decisions
-* Show how to correctly **structure a backtest** to avoid common biases
+* Shows how to **correctly structure a backtest** to avoid common biases by explaining them
 * Apply **statistical reasoning** to strategy evaluation
-* Highlight the gap between in-sample performance and real-world robustness
+* Highlight the gap between in-sample performance and real-world robustness and make focus on overfitting error
 
 ## Strategy Summary
 
-The example strategy is a **news-driven trend-following model** applied primarily to **EUR/USD**, later extended to other assets (XAU/USD, USD/JPY).
+The example strategy is a **news-driven trend-following model** 
 
 Core logic:
 
@@ -32,16 +32,7 @@ Core logic:
 * Signal generation and trade execution logic
 * Debugging and bias detection (look-ahead, survivorship, overfitting)
 * Performance metrics and statistical analysis
-* Risk management and portfolio-level evaluation
-
-## Methodological Focus
-
-Particular attention is given to:
-
-* Overfitting and parameter optimization
-* Train / validation split and walk-forward analysis
-* Hypothesis testing to assess statistical significance
-* Monte Carlo simulations for position sizing
+* Risk management, correlation with other paair and portfolio evaluation
 
 ## Disclaimer
 
